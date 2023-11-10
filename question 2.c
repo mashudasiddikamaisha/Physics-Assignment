@@ -8,7 +8,7 @@ int main() {
 
     double ratio = m / sin(rad);
 
-    printf("The ratio of slit width to wavelength is: %d:%.3lf\n",m, ratio);
+    printf("The ratio of slit width to wavelength is: %.3lf:1\n",ratio);
 
     return 0;
 }
